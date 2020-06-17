@@ -1,0 +1,9 @@
+I published paper described an application inside Pinterest. Even though this paper is interesting, I cannot find the original github code. 
+
+I refer to https://gist.github.com/BarclayII to reproduce the code.
+
+However, the code for loading the movielens dataset seems to have errors. 
+
+I fixed the data loading part, but cannot convert node attributes into vectors due the difference in node (user, movie)'s attributes.
+
+You can refer to the code if you want to implement in the future. 
